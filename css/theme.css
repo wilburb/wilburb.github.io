@@ -6358,6 +6358,15 @@ div.footer {
 div.navbar-container {
   margin-bottom: 50px;
 }
+p.home-paragraph {
+  margin-top: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+}
+.nav li a,
+div.footer p {
+  font-family: 'Oxygen', sans-serif;
+}
 @media (min-width: 768px) {
   div.navbar-container {
     border-top: solid #ffa200 10px;
